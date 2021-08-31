@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Shoppingcard-responsive-design/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Shoppingcard-responsive-design/static/js/main.2f5ecab5.chunk.js",
+    "main.js.map": "/Shoppingcard-responsive-design/static/js/main.2f5ecab5.chunk.js.map",
+    "runtime-main.js": "/Shoppingcard-responsive-design/static/js/runtime-main.f20697c9.js",
+    "runtime-main.js.map": "/Shoppingcard-responsive-design/static/js/runtime-main.f20697c9.js.map",
+    "static/js/2.a54d4daf.chunk.js": "/Shoppingcard-responsive-design/static/js/2.a54d4daf.chunk.js",
+    "static/js/2.a54d4daf.chunk.js.map": "/Shoppingcard-responsive-design/static/js/2.a54d4daf.chunk.js.map",
+    "static/js/3.1c4ec894.chunk.js": "/Shoppingcard-responsive-design/static/js/3.1c4ec894.chunk.js",
+    "static/js/3.1c4ec894.chunk.js.map": "/Shoppingcard-responsive-design/static/js/3.1c4ec894.chunk.js.map",
+    "index.html": "/Shoppingcard-responsive-design/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Shoppingcard-responsive-design/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a54d4daf.chunk.js.LICENSE.txt": "/Shoppingcard-responsive-design/static/js/2.a54d4daf.chunk.js.LICENSE.txt",
+    "static/media/prod1.63ce4b1b.png": "/Shoppingcard-responsive-design/static/media/prod1.63ce4b1b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f20697c9.js",
+    "static/js/2.a54d4daf.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2f5ecab5.chunk.js"
+  ]
+}
